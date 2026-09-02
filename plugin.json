@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "add-framework",
+  "description": "Assess-Decide-Do (ADD) cognitive framework \u2014 detect Assess/Decide/Do realm and respond in-alignment. Skills pack for agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dragos Roua",
+    "url": "https://dragosroua.com"
+  },
+  "homepage": "https://dragosroua.com/assess-decide-do-framework/",
+  "repository": "https://github.com/dragosroua/grok-bot-add-plugin",
+  "license": "MIT",
+  "keywords": [
+    "productivity",
+    "cognitive-framework",
+    "ADD",
+    "assess-decide-do",
+    "skills"
+  ]
+}
