@@ -50,7 +50,7 @@ AddFlow = { realm: Assess | Decide | Do, pattern, imbalances[] }
 ## Layout
 
 ```
-add-framework-agent-plugin/
+grok-bot-add-plugin/
 ├── plugin.json
 ├── README.md
 ├── LICENSE
